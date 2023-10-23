@@ -1,0 +1,3 @@
+[arm64-v8a] Compile        : keys <= apis.c
+[arm64-v8a] Compile        : keys <= params.c
+[arm64-v8a] SharedLibrary  : libkeys.so

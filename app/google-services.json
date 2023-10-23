@@ -1,0 +1,108 @@
+{
+  "project_info": {
+    "project_number": "885802279461",
+    "project_id": "chorchuri-a9f2f",
+    "storage_bucket": "chorchuri-a9f2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885802279461:android:2ee1a567cd1d105cd315cc",
+        "android_client_info": {
+          "package_name": "com.chorchuri.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885802279461-296hktn01lscbhmkses3n0e64mh0le5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chorchuri.app",
+            "certificate_hash": "26e6fc037aec5e694c4094a287bd575bf45fbe21"
+          }
+        },
+        {
+          "client_id": "885802279461-58m2q3hb32j6uh06vag3ka26scjni8rh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chorchuri.app",
+            "certificate_hash": "6747359791b52d4671b86606fdcb2abb898a087b"
+          }
+        },
+        {
+          "client_id": "885802279461-sppdpg81in7j7j6l4rum28gju10ti9p9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chorchuri.app",
+            "certificate_hash": "2bc441aee8813302aabc5ccb8226a85313b08b77"
+          }
+        },
+        {
+          "client_id": "885802279461-tmdl9h0trd8gm8oqf26qavtjrqeh5dor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chorchuri.app",
+            "certificate_hash": "3f85f803ed5e180e4b32207872c4c5724d509d1a"
+          }
+        },
+        {
+          "client_id": "885802279461-reg822kch0c4jq7korpvhnbmo35jo5ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK7Cp4T3sNkmoCJ4EC585wYNOdrO0zS0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885802279461-reg822kch0c4jq7korpvhnbmo35jo5ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885802279461:android:ddaab271eb83e173d315cc",
+        "android_client_info": {
+          "package_name": "com.chorchuri.tv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885802279461-82ss788p9bquftom62vrjqpbbu645bm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chorchuri.tv",
+            "certificate_hash": "3f85f803ed5e180e4b32207872c4c5724d509d1a"
+          }
+        },
+        {
+          "client_id": "885802279461-reg822kch0c4jq7korpvhnbmo35jo5ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK7Cp4T3sNkmoCJ4EC585wYNOdrO0zS0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885802279461-reg822kch0c4jq7korpvhnbmo35jo5ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

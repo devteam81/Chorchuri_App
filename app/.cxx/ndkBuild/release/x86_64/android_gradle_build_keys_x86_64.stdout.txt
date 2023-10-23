@@ -1,0 +1,3 @@
+[x86_64] Compile        : keys <= apis.c
+[x86_64] Compile        : keys <= params.c
+[x86_64] SharedLibrary  : libkeys.so
